@@ -6,5 +6,5 @@ day 1,
 
 -environment setup and installation of ide&apps
 
--python introduction
+-python introduction ; variables,datatypes
 

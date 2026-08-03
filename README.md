@@ -2,7 +2,7 @@
 
 day 1, 
 
--slq revision
--environment setup and installation of ide&apps
--python introduction
+slq revision
+environment setup and installation of ide&apps
+python introduction
 

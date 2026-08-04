@@ -1,13 +1,15 @@
 # a simple program  (progam eligibility check)
 
 name = input("enter your name : ")
-age = int (input ("Enter age :"))
+dob =  input ("Enter DOB : ")
 location = input("Enter your current city Address :")
 Email = input ("Enter your email address :")
 uni_status = bool (input(" Are you a final year student? :"))
 date_of_graduation = input("input(Enter your expected graduation date: " )
 other_programs = bool (input("are u enrolled in other programs: "))
 current_gpa =  float (input("Enter your GPA: "))
+
+
 
 print ("NAME        : ", name)
 print ("AGE         : ", age )

@@ -15,3 +15,5 @@ day 2,
 - lists overview
 
 - turples overview
+
+- Dictonaries 

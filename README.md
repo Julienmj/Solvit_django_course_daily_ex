@@ -12,4 +12,6 @@ day 2,
 
 - introduction to python operators
 
-- lists
+- lists overview
+
+- turples overview

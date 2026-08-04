@@ -9,3 +9,4 @@ day 1,
 -python introduction ; variables,datatypes
 
 day 2, 
+- introduction to python operators

@@ -69,7 +69,7 @@
 
 # Q8
 
-class_info = ["stu1","stu2","stu3"]
+# class_info = ["stu1","stu2","stu3"]
 
 # stu1 = {
 #     "name" : "Mj" ,
@@ -93,16 +93,16 @@ class_info = ["stu1","stu2","stu3"]
 
 #Q9
 
-name = "Mugisha Julie"
-skills = ["c","c++","python","java"]
-dob = ("2004","03","18")
-cont = {
-    "tel": "0780789636",
-    "insta": "Julien_mj1",
-    "ytb": "curio",
-}
+# name = "Mugisha Julie"
+# skills = ["c","c++","python","java"]
+# dob = ("2004","03","18")
+# cont = {
+#     "tel": "0780789636",
+#     "insta": "Julien_mj1",
+#     "ytb": "curio",
+# }
 
-print ("FULL NAME : ",name)
-print ("SKILLS: ", skills)
-print (f"DOB : {dob[0]}-{dob[1]}-{dob[2]} ")
-print (f"tel : {cont["tel"]} \ninstagram : {cont["insta"]}\nyoutube : {cont["ytb"]}\n")
+# print ("FULL NAME : ",name)
+# print ("SKILLS: ", skills)
+# print (f"DOB : {dob[0]}-{dob[1]}-{dob[2]} ")
+# print (f"tel : {cont["tel"]} \ninstagram : {cont["insta"]}\nyoutube : {cont["ytb"]}\n")
